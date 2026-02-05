@@ -12,4 +12,18 @@ The Scrum master acts as the servant-leader which optimizes workflow.
 The Product Owner defines the product vision, and manages the backflow.
 
 (c) What are the 3 types of meetings that can happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
+The three types of meetings that can happen during a sprint cycle are Sprint Planning, Daily Scrum, and Sprint Review and Retrospective.
+
+1. Sprint Planning:
+   Identify the sprint goal for what the team plans of achieving during the iteration
+   The team selects small backlog items and breaks them down into smaller tasks to complete.
+
+2. Daily Scrum:
+   Team members provide an update on what was completed and what is next to be completed.
+   Team members highlight any road blocks that could hinder progress and keep the team aligned.
+
+3. Sprint Review and Retrospective:
+   The team demonstrates working functionality completed during the sprint to stakeholders.
+   The team reflects on the past sprint including what went wrong/right and what improvements can be made on the next sprint.
+
 (d) Differentiate between Epic, Story, Bug and Task issue types in JIRA
