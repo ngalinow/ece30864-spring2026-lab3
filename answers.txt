@@ -27,4 +27,14 @@ The three types of meetings that can happen during a sprint cycle are Sprint Pla
    The team reflects on the past sprint including what went wrong/right and what improvements can be made on the next sprint.
 
 (d) Differentiate between Epic, Story, Bug and Task issue types in JIRA
------
+1. Epic:
+   An Epic Captures a large body of work taht can be broken down into several smaller stories.
+
+2. Story:
+   A story is a software system requirement that is expressed in a few short sentences.
+
+3. Bug:
+   A bug is a specific type of issue that identifies, documents, and tracks software defects and errors that lead to unexpected behavior.
+
+4. Task:
+   A task represents a specific actionable, technical unit of work that needs to be completed.
