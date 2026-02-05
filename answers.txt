@@ -1,4 +1,12 @@
 (a) What are some Pros and Cons of AGile development (vs non-Agile?) List 2 of each
+Pros: 
+1. It is flexible and adaptable meaning that teams can easily pivot and change priorities.
+2. It is able to break up projects into small more functional components.
+
+Cons:
+1. Scope of a project can constantly change so it is challenging to set fixed timelines.
+2. It requires constant participation from clients for daily decisions and regular reviews.
+
 (b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
 (c) What are the 3 types of meetings that can happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
 (d) Differentiate between Epic, Story, Bug and Task issue types in JIRA
