@@ -27,3 +27,4 @@ The three types of meetings that can happen during a sprint cycle are Sprint Pla
    The team reflects on the past sprint including what went wrong/right and what improvements can be made on the next sprint.
 
 (d) Differentiate between Epic, Story, Bug and Task issue types in JIRA
+-----
