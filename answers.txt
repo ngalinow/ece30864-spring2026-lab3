@@ -8,5 +8,8 @@ Cons:
 2. It requires constant participation from clients for daily decisions and regular reviews.
 
 (b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+The Scrum master acts as the servant-leader which optimizes workflow.
+The Product Owner defines the product vision, and manages the backflow.
+
 (c) What are the 3 types of meetings that can happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
 (d) Differentiate between Epic, Story, Bug and Task issue types in JIRA
